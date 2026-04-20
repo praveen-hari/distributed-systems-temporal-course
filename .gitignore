@@ -1,0 +1,32 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# MkDocs build output
+site/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (for Temporal exercises)
+node_modules/
+dist/
+*.js.map
+
+# Environment variables
+.env
+.env.local
+
+# Temporal
+temporal-data/
+
+# Logs
+*.log

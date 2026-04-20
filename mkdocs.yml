@@ -1,0 +1,111 @@
+site_name: "Reliable Distributed Systems with Temporal"
+site_description: "A comprehensive course bridging distributed systems theory (DDIA) with hands-on Temporal + TypeScript implementation"
+site_author: "Course Author"
+site_url: "https://distributed-systems-course.dev"
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    logo: material/server-network
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.keys
+  - attr_list
+  - md_in_html
+  - tables
+  - def_list
+  - footnotes
+  - abbr
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+nav:
+  - Home:
+      - index.md
+      - Introduction: introduction/index.md
+      - Why This Course: introduction/purpose.md
+      - Environment Setup: introduction/setup.md
+  - Modules:
+      - modules/index.md
+      - "Module 1 — Foundations": modules/module-01-foundations.md
+      - "Module 2 — Data Models & Activities": modules/module-02-data-models.md
+      - "Module 3 — Replication & Reliability": modules/module-03-replication.md
+      - "Module 4 — Transactions & Saga": modules/module-04-transactions.md
+      - "Module 5 — Fault Tolerance": modules/module-05-fault-tolerance.md
+      - "Module 6 — Distributed Coordination": modules/module-06-coordination.md
+      - "Module 7 — Batch & Stream Processing": modules/module-07-batch-stream.md
+      - "Module 8 — Observability & Versioning": modules/module-08-observability.md
+  - Capstone:
+      - capstone/index.md
+  - Resources:
+      - resources/index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-repo/distributed-system-course
+    - icon: fontawesome/brands/slack
+      link: https://t.mp/slack
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
+copyright: Copyright &copy; 2026 — Reliable Distributed Systems Course
