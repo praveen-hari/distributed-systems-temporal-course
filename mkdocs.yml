@@ -1,7 +1,7 @@
 site_name: "Reliable Distributed Systems with Temporal"
 site_description: "A comprehensive course bridging distributed systems theory (DDIA) with hands-on Temporal + TypeScript implementation"
 site_author: "Course Author"
-site_url: "https://distributed-systems-course.dev"
+site_url: "https://praveen-hari.github.io/distributed-systems-temporal-course/"
 
 theme:
   name: material
