@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://distributed-systems-course.dev/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/capstone/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/capstone/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/introduction/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/introduction/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/introduction/purpose/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/introduction/purpose/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/introduction/setup/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/introduction/setup/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/module-01-foundations/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/module-01-foundations/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/module-02-data-models/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/module-02-data-models/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/module-03-replication/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/module-03-replication/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/module-04-transactions/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/module-04-transactions/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/module-05-fault-tolerance/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/module-05-fault-tolerance/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/module-06-coordination/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/module-06-coordination/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/module-07-batch-stream/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/module-07-batch-stream/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/modules/module-08-observability/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/modules/module-08-observability/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
     <url>
-         <loc>https://distributed-systems-course.dev/resources/</loc>
+         <loc>https://praveen-hari.github.io/distributed-systems-temporal-course/resources/</loc>
          <lastmod>2026-04-20</lastmod>
     </url>
 </urlset>
